@@ -12,10 +12,6 @@ Aplicativo móvel desenvolvido em **React Native** que consome dados da **PokéA
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)  
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)  
 
-```bash
-npm install -g expo-cli
-```
-
 ### 2. Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/pokedex-app.git
@@ -27,12 +23,6 @@ cd pokedex-app
 npm install
 # ou
 yarn install
-```
-
-### 4. Dependências principais
-```bash
-expo install react-native axios @react-navigation/native @react-navigation/native-stack
-npx expo install react-native-screens react-native-safe-area-context
 ```
 
 ### 5. Executar o aplicativo
@@ -82,3 +72,4 @@ flowchart TD
 
 ## Créditos
 Dados fornecidos por [PokéAPI](https://pokeapi.co)
+
